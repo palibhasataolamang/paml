@@ -17,4 +17,20 @@ Friendzymes is producing the first practical demonstration of a new lab automati
 - The repository where work will be deposited
   - https://github.com/friendzymes/paml 
 
+### TODO
+|Task|Progress|Remarks|
+|---|---|---|
+|OT2 Specialization - Implement well range locations|80%|-|
+|Multi-execution enviroment implementation|Debugging|Finding a way to split code into different scripts|
+|Golden Gate Implementation - Implement sample collection library|30%|Interim solution for now- need to ask head devs re. standards|
+|Golden Gate Implementation - Implement Seal and Spin Markdown|-|-|
+|Golden Gate Implementation - Implement Incubate Markdown|-|-|
+|Golden Gate Implementation - Implement Incubate Ot2 Module|-|-|
+|OT2 Specialization - !!!Refactor!!!|-|Lotsa unused code|
+|OT2 Specialization - Add Github upload|-|Use Multi execution|
+|OT2 Specialization - Create OT2 Python Template|-|Ask help from expert|
+|OT2 Specialization - Implement smart pipetting|-|-|
+|OT2 Specialization - Implement relative locations|-|-|
+|OT2 Specialization - Implement smart deck assignment|-|-|
+|OT2 Specialization - Implement OT2 Upload|-|Decide between HTTP,SCP, or SSH|
 ---
